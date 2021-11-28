@@ -4,11 +4,17 @@ Source code for paper "MOON: Multi-Hash Codes Joint Learning for Cross-Media Ret
 
 @article{zhang2021moon,
   title={MOON: Multi-hash codes joint learning for cross-media retrieval},
+  
   author={Zhang, Donglin and Wu, Xiao-Jun and Yin, He-Feng and Kittler, Josef},
+  
   journal={Pattern Recognition Letters},
+  
   volume={151},
+  
   pages={19--25},
+  
   year={2021},
+  
   publisher={Elsevier}
 }
 
