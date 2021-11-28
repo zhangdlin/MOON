@@ -1,6 +1,5 @@
 # MOON
-Source code for paper "MOON: Multi-Hash Codes Joint Learning for Cross-Media Retrieval"
- If you use our code, please cite our article.
+ If you use our code, please cite our article！
 
 @article{zhang2021moon,
   title={MOON: Multi-hash codes joint learning for cross-media retrieval},
